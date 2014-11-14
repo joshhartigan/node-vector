@@ -1,0 +1,25 @@
+{
+  "name": "node-vector",
+  "version": "0.0.1",
+  "description": "A replica of C++'s vector container for JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshhartigan/node-vector"
+  },
+  "keywords": [
+    "vector",
+    "container",
+    "math",
+    "c++"
+  ],
+  "author": "Josh Hartigan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshhartigan/node-vector/issues"
+  },
+  "homepage": "https://github.com/joshhartigan/node-vector"
+}
