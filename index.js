@@ -65,3 +65,5 @@ function Vector(type, elements) {
 
 }
 
+module.exports = Vector;
+
