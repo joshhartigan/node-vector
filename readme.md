@@ -1,5 +1,7 @@
 # node-vector
 
+[![NPM](https://nodei.co/npm/node-vector.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node-vector/)
+
 An implementation of the C++ `<vector>` type in JavaScript.
 
 ### usage
